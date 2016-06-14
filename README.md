@@ -17,7 +17,7 @@ array()
 // > []
 
 // using a function to generate values
-array(4, (x, i) => i * 10)
+array(4, (i) => i * 10)
 // > [0, 10, 20, 30]
 ```
 
